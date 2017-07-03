@@ -1,0 +1,2 @@
+# haskellExer
+my haskell exer
